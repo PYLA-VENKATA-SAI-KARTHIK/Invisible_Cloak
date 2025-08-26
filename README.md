@@ -2,9 +2,6 @@
 
 Ever wanted a real-life Invisibility Cloak like in Harry Potter? This fun Python script uses the magic of computer vision with OpenCV to make that a reality! It detects a specific color in your webcam feed and replaces it with a static background image, effectively making the colored object disappear.
 
-![Demo GIF of the Invisibility Cloak in action]()
-*(A GIF like this is highly recommended for your README!)*
-
 --
 
 ## Here is how It Works
